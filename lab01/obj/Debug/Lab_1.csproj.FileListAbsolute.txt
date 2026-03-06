@@ -1,0 +1,11 @@
+C:\Users\angel\OneDrive\Desktop\lab1\bin\Debug\Lab_1.exe.config
+C:\Users\angel\OneDrive\Desktop\lab1\bin\Debug\Lab_1.exe
+C:\Users\angel\OneDrive\Desktop\lab1\bin\Debug\Lab_1.pdb
+C:\Users\angel\OneDrive\Desktop\lab1\obj\Debug\Lab_1.csproj.AssemblyReference.cache
+C:\Users\angel\OneDrive\Desktop\lab1\obj\Debug\Lab_1.Properties.Resources.resources
+C:\Users\angel\OneDrive\Desktop\lab1\obj\Debug\Lab_1.csproj.GenerateResource.cache
+C:\Users\angel\OneDrive\Desktop\lab1\obj\Debug\Lab_1.csproj.CoreCompileInputs.cache
+C:\Users\angel\OneDrive\Desktop\lab1\obj\Debug\Lab_1.exe
+C:\Users\angel\OneDrive\Desktop\lab1\obj\Debug\Lab_1.pdb
+C:\Users\angel\OneDrive\Desktop\lab1\obj\Debug\CarFactoryApp.Form1.resources
+C:\Users\angel\OneDrive\Desktop\lab1\obj\Debug\CarFactoryApp.Form2.resources
