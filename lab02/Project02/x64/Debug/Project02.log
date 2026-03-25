@@ -1,0 +1,33 @@
+﻿  FormWithoutProxy.cpp
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.43.34808\include\memory(3594,35): error C2512: sf::Text::Text: нет подходящего конструктора по умолчанию
+  (компиляция исходного файла "FormWithoutProxy.cpp")
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.43.34808\include\memory(3594,35):
+      при попытке сопоставить список аргументов "()"
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.43.34808\include\memory(3594,35):
+      контекст создания экземпляра шаблона (сначала самый старый)
+          C:\Users\angel\Downloads\SFML-3.0.2-windows-vc17-64-bit\SFML-3.0.2\Project02\FormWithoutProxy.cpp(17,22):
+          выполняется компиляция ссылки на экземпляр шаблон функции "std::unique_ptr<sf::Text,std::default_delete<sf::Text>> std::make_unique<sf::Text,,0>(void)"
+  
+  FormWithProxy.cpp
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.43.34808\include\memory(3594,35): error C2512: sf::Text::Text: нет подходящего конструктора по умолчанию
+  (компиляция исходного файла "FormWithProxy.cpp")
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.43.34808\include\memory(3594,35):
+      при попытке сопоставить список аргументов "()"
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.43.34808\include\memory(3594,35):
+      контекст создания экземпляра шаблона (сначала самый старый)
+          C:\Users\angel\Downloads\SFML-3.0.2-windows-vc17-64-bit\SFML-3.0.2\Project02\FormWithProxy.cpp(17,22):
+          выполняется компиляция ссылки на экземпляр шаблон функции "std::unique_ptr<sf::Text,std::default_delete<sf::Text>> std::make_unique<sf::Text,,0>(void)"
+  
+  MainWindow.cpp
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.43.34808\include\memory(3594,35): error C2512: sf::Text::Text: нет подходящего конструктора по умолчанию
+  (компиляция исходного файла "MainWindow.cpp")
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.43.34808\include\memory(3594,35):
+      при попытке сопоставить список аргументов "()"
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.43.34808\include\memory(3594,35):
+      контекст создания экземпляра шаблона (сначала самый старый)
+          C:\Users\angel\Downloads\SFML-3.0.2-windows-vc17-64-bit\SFML-3.0.2\Project02\MainWindow.cpp(18,22):
+          выполняется компиляция ссылки на экземпляр шаблон функции "std::unique_ptr<sf::Text,std::default_delete<sf::Text>> std::make_unique<sf::Text,,0>(void)"
+  
+  ProxyDocument.cpp
+  RealDocument.cpp
+  Создание кода...
